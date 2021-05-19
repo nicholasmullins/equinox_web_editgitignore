@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "eobGWwcDGkYfpuHfaraQ+g==\n", 
+    "height": 33, 
+    "hier_level": 0, 
+    "human_hash": "input_X248_Y300_W700_H33", 
+    "human_readable": "input_248_300_700_33_input_1fff1fffffffffffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YTY5MDMzZjZiMTk1MTA3ODUzMzQxODYyMDkxNjc1MDI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Phone Number", 
+                "class": "undefined   blackInput___3GwRN", 
+                "id": "9ddac9dd-ed94-4136-914a-f4f2906c258c", 
+                "name": "phone", 
+                "placeholder": "", 
+                "value": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "undefined   blackInput___3GwRN", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\"", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 33, 
+            "identifier": "9ddac9dd-ed94-4136-914a-f4f2906c258c", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "phone", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 700, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 300, 
+            "yPercent": 3.063725490196078
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 300
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 700
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "87c6791b42e4f22a60ea4e44240b3fe2", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 700, 
+    "x": 248, 
+    "y": 300
+}

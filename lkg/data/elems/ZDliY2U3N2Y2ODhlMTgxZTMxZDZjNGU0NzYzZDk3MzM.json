@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QZySX0YJBF2ynYw2FZw1Tw==\n", 
+    "height": 288, 
+    "hier_level": 0, 
+    "human_hash": "h1_X598_Y177_W724_H288", 
+    "human_readable": "h1_598_177_724_288_h1_000000000000000000001dd81ff81ff81ff81ff0bc00bff83ff83ff83ffc7fc0_2f689a65bb0919dcd22fd00fc12f20e7", 
+    "image_path": "ZDliY2U3N2Y2ODhlMTgxZTMxZDZjNGU0NzYzZDk3MzM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "headline-element-desktop___3u_q8 Desktop-Large___2ZP9G d-xl-block d-lg-block d-md-none d-sm-none"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "headline-element-desktop___3u_q8 Desktop-Large___2ZP9G d-xl-block d-lg-block d-md-none d-sm-none", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 96, 
+            "height": 288, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "MEMBERSHIP\nWITH BENEFITS", 
+            "type": "", 
+            "value": "", 
+            "width": 724, 
+            "x": 598, 
+            "xPercent": 31.145833333333332, 
+            "y": 177, 
+            "yPercent": 2.193543138713276
+        }, 
+        "location": {
+            "x": 598, 
+            "y": 177
+        }, 
+        "size": {
+            "height": 288, 
+            "width": 724
+        }, 
+        "tag_name": "h1", 
+        "text": "MEMBERSHIP\nWITH BENEFITS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "99e32c5bbea4741e43f2b8fe511b474a", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "MEMBERSHIP\nWITH BENEFITS", 
+    "transformed": true, 
+    "width": 724, 
+    "x": 598, 
+    "y": 177
+}

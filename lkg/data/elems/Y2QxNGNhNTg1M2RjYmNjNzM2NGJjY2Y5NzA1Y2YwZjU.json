@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "MSUTxWSqE4EZSvWwyu7ASg==\n", 
+    "height": 33, 
+    "hier_level": 0, 
+    "human_hash": "input_X248_Y194_W700_H33", 
+    "human_readable": "input_248_194_700_33_input_1fff1fffffffffffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "Y2QxNGNhNTg1M2RjYmNjNzM2NGJjY2Y5NzA1Y2YwZjU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Email Address", 
+                "class": "undefined   blackInput___3GwRN", 
+                "id": "f87e10e6-7816-409f-a487-f5eaa7e21585", 
+                "name": "email", 
+                "placeholder": "", 
+                "value": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "undefined   blackInput___3GwRN", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\"", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 33, 
+            "identifier": "f87e10e6-7816-409f-a487-f5eaa7e21585", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "email", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 700, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 194, 
+            "yPercent": 1.9812091503267972
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 194
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 700
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "87c6791b42e4f22a60ea4e44240b3fe2", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 700, 
+    "x": 248, 
+    "y": 194
+}
