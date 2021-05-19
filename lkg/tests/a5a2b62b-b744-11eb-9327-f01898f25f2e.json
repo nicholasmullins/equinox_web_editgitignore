@@ -2,7 +2,6 @@
     "002 Find A Club": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "002 Find A Club", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -68,7 +67,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_view_this_club_bay_street"
+                    "btn_view_this_club"
                 ], 
                 "run_only_if_label_present": true, 
                 "type": "action", 

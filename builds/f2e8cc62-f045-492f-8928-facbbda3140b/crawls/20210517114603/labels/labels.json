@@ -1,5 +1,11 @@
 {
     "elems": {
+        "iter_00000_step_00001_1_h1.png": [
+            "ttl_welcome_forward"
+        ], 
+        "iter_00000_step_00001_52_button.png": [
+            "btn_claim_offer_membership_page"
+        ], 
         "iter_00000_step_00005_28_h3.png": [
             "txt_unlimited_group_fitness"
         ], 
@@ -7,6 +13,21 @@
             "btn_explore_training"
         ], 
         "iter_00000_step_00013_26_button.png": [
+            "btn_claim_offer_membership_page"
+        ], 
+        "iter_00000_step_00014_14_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00014_20_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00014_28_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00014_4_input.png": [
+            "inp_phone_number"
+        ], 
+        "iter_00000_step_00016_26_button.png": [
             "btn_claim_offer_membership_page"
         ], 
         "iter_00000_step_00016_49_h1.png": [

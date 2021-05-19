@@ -1,4 +1,32 @@
 {
-    "elems": {}, 
+    "elems": {
+        "iter_00000_step_00001_1_h1.png": [
+            "ttl_welcome_forward"
+        ], 
+        "iter_00000_step_00001_50_button.png": [
+            "btn_claim_offer_membership_page"
+        ], 
+        "iter_00000_step_00007_11_a.png": [
+            "mnu_member_benefits"
+        ], 
+        "iter_00000_step_00007_20_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00007_38_a.png": [
+            "mnu_join_online"
+        ], 
+        "iter_00000_step_00007_43_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00007_45_a.png": [
+            "mnu_classes"
+        ], 
+        "iter_00000_step_00007_46_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00007_7_a.png": [
+            "mnu_personal_training"
+        ]
+    }, 
     "screens": {}
 }

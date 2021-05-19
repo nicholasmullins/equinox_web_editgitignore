@@ -1,0 +1,1 @@
+[{u'timestamp': 1621380814157, u'message': u'https://api-34-222-44-90.b2c.com/api/x?6KHgBkRWlZSPKOIO$Ymx1ciQxNzgzMzAkMQ~~ - Failed to load resource: the server responded with a status of 405 ()', u'level': u'SEVERE'}]

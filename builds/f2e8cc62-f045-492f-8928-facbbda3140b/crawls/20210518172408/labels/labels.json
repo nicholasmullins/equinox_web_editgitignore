@@ -1,0 +1,65 @@
+{
+    "elems": {
+        "iter_00000_step_00005_55_h3.png": [
+            "txt_unlimited_group_fitness"
+        ], 
+        "iter_00000_step_00006_53_button.png": [
+            "btn_explore_training"
+        ], 
+        "iter_00000_step_00011_37_h1.png": [
+            "ttl_membership_with_benefits"
+        ], 
+        "iter_00000_step_00014_26_button.png": [
+            "mnu_womens"
+        ], 
+        "iter_00000_step_00014_34_button.png": [
+            "mnu_sale"
+        ], 
+        "iter_00000_step_00014_39_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00014_45_button.png": [
+            "mnu_accessories"
+        ], 
+        "iter_00000_step_00014_53_button.png": [
+            "mnu_mens"
+        ], 
+        "iter_00000_step_00018_40_div.png": [
+            "div_boston"
+        ], 
+        "iter_00000_step_00018_5_input.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00020_106_a.png": [
+            "btn_view_this_club"
+        ], 
+        "iter_00000_step_00022_103_button.png": [
+            "btn_schedule_a_visit"
+        ], 
+        "iter_00000_step_00022_106_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00022_37_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00022_96_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00022_99_a.png": [
+            "mnu_member_benefits"
+        ], 
+        "iter_00000_step_00023_16_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00023_19_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00023_24_input.png": [
+            "inp_phone_number"
+        ], 
+        "iter_00000_step_00023_2_input.png": [
+            "inp_last_name"
+        ]
+    }, 
+    "screens": {}
+}

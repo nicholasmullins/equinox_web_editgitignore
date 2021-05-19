@@ -1,10 +1,29 @@
 {
     "elems": {
+        "iter_00000_step_00000_16_a.png": [
+            "icn_home"
+        ], 
         "iter_00000_step_00000_19_span.png": [
             "mnu_classes"
         ], 
+        "iter_00000_step_00000_1_h1.png": [
+            "ttl_welcome_forward"
+        ], 
         "iter_00000_step_00000_28_span.png": [
             "mnu_shop"
+        ], 
+        "iter_00000_step_00000_39_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00000_41_a.png": [
+            "mnu_classes", 
+            "btn_classes"
+        ], 
+        "iter_00000_step_00000_42_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00000_8_a.png": [
+            "mnu_member_benefits"
         ], 
         "iter_00000_step_00003_24_button.png": [
             "mnu_mens"
